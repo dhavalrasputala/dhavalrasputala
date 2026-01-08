@@ -1,6 +1,6 @@
 👋 Hi, I'm Dhaval Rasputala | MERN Stack Developer in the Making
 
-🚀 Aspiring Full-Stack Developer | 📚 Learning in Public | 🔥 #100DaysOfCode | 🎯 Open to Opportunities
+🚀 Aspiring Full-Stack Developer |   🎯 Open to Opportunities
 
 👨‍💻 About Me
 I'm on an accelerated journey to master the MERN stack (MongoDB, Express.js, React, Node.js) and transition into a professional developer role. I believe in learning by building and documenting my progress publicly.
@@ -17,4 +17,4 @@ Current Focus:
 
 🚀 Deploying full-stack applications
 
-Philosophy: "Code daily, learn publicly, grow constantly."
+Philosophy: "Code daily, grow constantly."
