@@ -1,4 +1,4 @@
-👋 Hi, I'm Dhaval Rasputala | MERN Stack Developer in the Making
+👋 Hi, I'm Dhaval Rasputala | MERN Stack Developer
 
 🚀 Aspiring Full-Stack Developer |   🎯 Open to Opportunities
 
