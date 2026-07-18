@@ -1,20 +1,18 @@
-👋 Hi, I'm Dhaval Rasputala | MERN Stack Developer in  Makeing
+👋 Hi, I'm Dhaval Rasputala | Go Backend Developer in the Making
 
-🚀 Aspiring Full-Stack Developer |   🎯 Open to Opportunities
+ Aspiring Backend Developer (Go) | 🟢 Open to Opportunities
 
-👨‍💻 About Me
-I'm on an accelerated journey to master the MERN stack (MongoDB, Express.js, React, Node.js) and transition into a professional developer role. I believe in learning by building and documenting my progress publicly.
+🚀 About Me
+I'm on an accelerated journey to master backend development with Go — building APIs, working with databases, and learning server-side architecture — with the goal of transitioning into a professional backend developer role. I believe in learning by building and documenting my progress.
 
-Current Focus:
+🛠️ Current Focus
+- 🐹 Mastering Go fundamentals (syntax, concurrency, goroutines)
+- ⚙️ Building REST APIs and backend services in Go
+- 🗄️ Working with databases (MongoDB, and exploring SQL)
+- 🔐 Learning authentication, middleware & server architecture
+- 🚢 Deploying and testing backend applications
+- 📚 Picking up Java as a secondary backend language
 
-📖 Mastering JavaScript fundamentals
+💼 Open to internship / junior backend developer roles
 
-⚛️ Building React applications
-
-🔗 Connecting frontend to backend
-
-🗄️ Working with MongoDB databases
-
-🚀 Deploying full-stack applications
-
-Philosophy: "Code daily, grow constantly."
+📌 Philosophy: "Code daily, grow constantly."
