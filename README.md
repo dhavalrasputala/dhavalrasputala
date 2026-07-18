@@ -1,3 +1,5 @@
+[![](https://komarev.com/ghpvc/?username=dhavalrasputala&icon=3&color=green)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 GateKeeper(GO library)<br>👯 backend projects<br>🤝 Open source and backend Projects<br>🌱 backend development<br>
 
@@ -13,4 +15,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhavalrasputala&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=dhavalrasputala&icon=3&color=green)](https://visitcount.itsvg.in)
+
