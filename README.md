@@ -23,22 +23,13 @@ I am a dedicated Go developer on an accelerated journey to master backend engine
 
 <p align="left">
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/></a>
+  <a href="https://linux.org/"><img src="g.shields.io/badge/Linux-%2357A143.svg?style=for-the-badge&logo=Linux&logoColor=white" alt="Linux"
 </p>
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhavalrasputala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalrasputala&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 ### 🛠️ Featured Go Projects
 
@@ -57,7 +48,7 @@ I am a dedicated Go developer on an accelerated journey to master backend engine
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/dhaval-rasputala-5758b9326" target="_blank">
+  <a href="www.linkedin.com/in/dhavalrasputala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/dhaval_rasputala" target="_blank">
