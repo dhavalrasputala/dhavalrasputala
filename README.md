@@ -16,5 +16,3 @@ I'm on an accelerated journey to master backend development with Go — building
 **Tech Stack:** Go · Node.js · Express · MongoDB · Java · Git
 
 📌 *Philosophy: "Code daily, grow constantly."*
-
-📫 [LinkedIn](https://linkedin.com/in/dhaval-rasputala-575889326) · [Instagram](https://instagram.com/dhaval_rasputala)
