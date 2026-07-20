@@ -1,7 +1,7 @@
 [![](https://komarev.com/ghpvc/?username=dhavalrasputala&icon=3&color=green)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 GateKeeper(GO library)<br>👯 backend projects<br>🤝 Open source and backend Projects<br>🌱 backend development<br>
+🔭 Currently working on :GateKeeper(GO library)<br>👯 Ready to Collobrate on backend projects<br>🤝 Ready to Contribute to Open source  backend Projects<br>🌱 backend development<br>
 
 
 ## 🌐 Socials:
