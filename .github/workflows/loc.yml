@@ -1,0 +1,46 @@
+name: Lines Of Code
+
+on:
+  push:
+    branches:
+      - main   # change this if your default branch is 'master'
+
+permissions:
+  contents: write   # needed so the action can commit back to your repo
+
+jobs:
+  print-repo-url:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Create Workspace Folder
+        run: mkdir -p wrdir
+
+      - name: Get Lines Of Code tool
+        run: git clone https://github.com/yasserbdj96/linesofcode.git wrdir
+
+      - name: Install requirements
+        run: pip install -r wrdir/requirements.txt
+
+      - name: Generate badges for this repository
+        run: cd wrdir && python main.py --URL="https://github.com/${{ github.repository }}"
+
+      - name: Copy badges back to current repo
+        run: |
+          mkdir -p badges
+          cp -R ./wrdir/badges/* ./badges/
+          cp -R ./wrdir/badges.md ./badges.md
+
+      - name: Clean up
+        run: rm -rf wrdir
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add .
+          git commit -m "Update lines of code badge" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main
