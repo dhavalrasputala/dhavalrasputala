@@ -36,3 +36,6 @@
 └────────────────────────────────────────────────────────────────┘
 
 ```
+![Lines of code](badges/total_lines.svg)
+![lines of code](badges/total_files.svg)
+
