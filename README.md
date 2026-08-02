@@ -10,7 +10,7 @@
 ### Dhaval Rasputala
 **Backend Developer (Go) — open to internship / junior backend roles**
 
-I build backend systems and like understanding what's actually happening under the abstractions — how a write becomes durable, how a request gets authorized. Currently building an Rate Limiting Gateway(private repo) , and exploring distributed systems fundamentals through [Distributed_Key_Value_Store](https://github.com/dhavalrasputala/Distributed_Key_Value_Store).
+I build backend systems and like understanding what's actually happening under the abstractions — how a write becomes durable, how a request gets authorized. Currently building an Rate Limiting Gateway([limitr](https://github.com/dhavalrasputala/limitr) , and exploring distributed systems fundamentals through [Distributed_Key_Value_Store](https://github.com/dhavalrasputala/Distributed_Key_Value_Store).
 
 📫 dhavalrasputala@gmail.com · [LinkedIn](https://linkedin.com/in/dhavalrasputala)
 
