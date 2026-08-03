@@ -41,6 +41,15 @@ A lightweight, dependency-free RBAC (role-based access control) engine for Go �
 
 **Stack:** Go · access control · API design
 
+### [limitr](https://github.com/dhavalrasputala/limitr)
+A lightweight , dependency-free API Gateway built in pure GO Add Proxys,Rate Limit Users,and answers one question fast : *is this user trying to DDOS attack our APIs?*
+
+- Configurable File to define rate limits , add more proxy & configure Auth keys
+- Added Authorization to Stop Unauthorized users to alter global rate limit
+- tested with 500  request & 200 concurrent Users
+
+**Stack:** Go . access control . rate limiting . concurrency
+
 ---
 
 ## Tech Stack
