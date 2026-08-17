@@ -12,8 +12,6 @@
 
 I build backend systems and like understanding what's actually happening under the abstractions — how a write becomes durable, how a request gets authorized. Currently building an Rate Limiting Gateway([limitr](https://github.com/dhavalrasputala/limitr)) , and exploring distributed systems fundamentals through [Distributed_Key_Value_Store](https://github.com/dhavalrasputala/Distributed_Key_Value_Store).
 
-📫 dhavalrasputala@gmail.com · [LinkedIn](https://linkedin.com/in/dhavalrasputala)
-
 </td>
 </tr>
 </table>
@@ -73,3 +71,4 @@ A lightweight , dependency-free API Gateway built in pure GO Add Proxys,Rate Lim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhavalrasputala)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhavalrasputala@gmail.com)
+![Linktree](https://img.shields.io/badge/LinkTree-43e660?style=for-the-badge&logo=linktree&logoColor=white)
