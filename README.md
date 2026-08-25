@@ -12,12 +12,13 @@
 
 I build backend systems and like understanding what's actually happening under the abstractions — how a write becomes durable, how a request gets authorized. Currently building an Rate Limiting Gateway([limitr](https://github.com/dhavalrasputala/limitr)) , and exploring distributed systems fundamentals through [Distributed_Key_Value_Store](https://github.com/dhavalrasputala/Distributed_Key_Value_Store).
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dhavalrasputala)
+
 </td>
 </tr>
 </table>
 
 ---
-
 ## Featured Projects
 
 ### [Distributed_Key_Value_Store](https://github.com/dhavalrasputala/Distributed_Key_Value_Store)
